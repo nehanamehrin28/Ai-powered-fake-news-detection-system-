@@ -1,0 +1,6 @@
+{
+  "name": "TruthScan - AI Fake News Detection System",
+  "description": "AI-powered fake news detection system using TF-IDF vectorization and Passive Aggressive Classifier with live analysis, analytics dashboard, and complete ML project resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
